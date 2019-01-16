@@ -1,2 +1,2 @@
 # webpack-learn-basic
-Just a file containing basic webpack with minimal configuration
+Just a file using webpack with minimal configuration
